@@ -1,0 +1,1 @@
+var e={updated:`2026-11-18`,note:`合作安装点。只放店名、地址、区域；不放邮箱/电话（联系统一走我们的 WhatsApp）；营业时间未确认就不写。店方已同意公开（老板 2026-11-18 确认）。`,shops:[{slug:`derrick-motor-works`,name:`Derrick Motor Works`,area:`Tampines`,address:`Blk 9002 Tampines Street 93 #01-72, Tampines Industrial Park A, Singapore 528836`}]};export{e as t};

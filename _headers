@@ -11,3 +11,10 @@
 # 预览/默认地址（*.pages.dev）不让搜索引擎收录，只有正式域名被收录
 https://:project.pages.dev/*
   X-Robots-Tag: noindex
+
+# 车主“我的车”页：私有视图，不收录、不缓存
+/my-car/*
+  X-Robots-Tag: noindex, nofollow
+  Cache-Control: no-store
+/my-car-config.json
+  Cache-Control: no-store
